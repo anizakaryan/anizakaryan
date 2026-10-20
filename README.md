@@ -1,4 +1,4 @@
-### Projects
+### hi. these are my main projects and just things i've worked on and decided to upload.
 
 **[uncertainty-guided-active-learning](https://github.com/anizakaryan/uncertainty-guided-active-learning)**
 Active learning on CIFAR-10 with ResNet-18. Compares random, least-confidence, margin, entropy and MC-Dropout BALD sampling; learning rate and weight decay tuned with Bayesian optimization.
